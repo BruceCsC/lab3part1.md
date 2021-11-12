@@ -10,7 +10,7 @@ Lab 1 Q6/7
 | Android  |  Google   |  10  | OS  |
 
 Lab 3 Part 1
-# 1. In this paper, 
+# 1. In this paper, it talks about under the situation in Hong Kong IT development 
 # 2. 
 # 3. 
 # 4.
