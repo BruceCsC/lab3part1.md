@@ -10,9 +10,9 @@
 | Android  |  Google   |  10  | OS  |
 
 # Lab 3 Part 1
- 1.
- 2. 
- 3. 
- 4.
+ 1.ggggggggggggg
+ 2. ggggggggggggggg
+ 3. gggggggggggggg
+ 4.gggggggggggggg
  5.
- 6.
+ 6.g
