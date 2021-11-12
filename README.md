@@ -1,4 +1,4 @@
-# Cheung-Sau-Ching
+Cheung-Sau-Ching
 Lab 1 Q6/7
 | Program | Software manufacturer | Software version | Software type |
 | :---         |     :---:      |        :---:  |     ---:     | 
@@ -9,7 +9,7 @@ Lab 1 Q6/7
 | Android  |  Google   |  10  | OS  |
 
 Lab 3 Part 1
-# 1.In this paper
+# 1.
 # 2. 
 # 3. 
 # 4.
