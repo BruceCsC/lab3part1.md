@@ -9,9 +9,9 @@ Lab 1 Q6/7
 | Android  |  Google   |  10  | OS  |
 
 Lab 3 Part 1
-1. 
-2. 
-3. 
-4.
-5.
-6.
+1. ggg
+2. kjghjyhj
+3. jjjgju
+4.ihgyug
+5.uyv
+6.hg
